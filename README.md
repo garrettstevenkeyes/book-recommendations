@@ -16,3 +16,5 @@ Main topics present in books, and netflix shows and movies
 ![alt_text](graphs/book_plots.png)
 
 And if we ask for a recommendation it pretty closely focuses in on similar material!
+
+![alt_text](graphs/van_helsing_description.png)
