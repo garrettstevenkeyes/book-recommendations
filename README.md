@@ -10,7 +10,6 @@ Movie Genres        |  TV Genres
 ![alt_text](graphs/netflix_movie_genres.png)  | ![alt_text](graphs/netflix_tv_genres.png) 
 
 Book Genres
-:-------------------:
 ![alt_text](graphs/goodreads.png)
 
 Main topics present in books, and netflix shows and movies
