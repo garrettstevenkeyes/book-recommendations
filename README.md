@@ -7,3 +7,4 @@ Movie Genres        |  TV Genres  |  Book Genres
 :-------------------------:|:-------------------------:|:-------------------------:
 ![alt_text](graphs/netflix_movie_genres.png)  | ![alt_text](graphs/netflix_tv_genres.png) | ![alt_text](graphs/goodreads.png)
 
+![alt_text](graphs/rounded_ratings.png) 
