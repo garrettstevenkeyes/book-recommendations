@@ -2,7 +2,7 @@
 Content-based recommendation system to give Netflix movie & TV lovers books they may enjoy based on the similarity of the plot descriptions. 
 
 ## Data
-The data is composed of 3925 Netflix movies and 1911 tv shows web scraped from Flixable, a website cataloging all shows and movies available on netflix. Each Netflix entry also had its star rating and associated genres scraped from IMDB. Book data was aquired by scraping a goodreads list of the 7500 best books of the 21 century. 
+The data is composed of 3925 Netflix movies and 1911 Netflix tv shows web scraped from Flixable, a website cataloging all shows and movies available on netflix. Each Netflix entry also had its star rating and associated genres scraped from IMDB. Book data was aquired by scraping a goodreads list of the 7500 best books of the 21 century. 
 
 ## EDA
 
