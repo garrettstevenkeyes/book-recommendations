@@ -57,6 +57,9 @@ From there I used the cosign similarity to calculate the distance between each e
 
 And if we ask for a recommendation it pretty closely focuses in on similar material! For example, if we search the netflix tv show 'Van Helsing' and ask to receive a recommendation for a book, we are given novels focused on vampires and the supernatural.  
 
+![alt_text](graphs/Screen Shot 2020-02-20 at 11.08.10 PM.png)
+
+
 #### Dependent Libraries
 Pandas
 requests
